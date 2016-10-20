@@ -1,0 +1,11 @@
+ body {
+        text-align: center;
+        background-image: url();
+        background-color: gray;
+        border-top-left-radius: 25px;
+       }
+ img {
+    display: inline-block;
+     width: 1000%;
+
+}
